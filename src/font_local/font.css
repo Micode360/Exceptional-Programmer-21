@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Quicksand Dash';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Quicksand Dash'), local('Quicksand Dash'), url(Quicksand_Dash.otf) format('otf');
+  }
