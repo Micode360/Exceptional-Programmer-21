@@ -11,7 +11,7 @@ const HeaderNav = (props) => {
             <div className="header">
                 <nav><img className="logo" src={LOGO} alt="logo"/></nav>
                 <nav id="navbar">
-                    <li><a className="home-link" href="https://miraclekingabaye.herokuapp.com/">Home</a></li>
+                    <li><a className="home-link" href="https://miracle-exceptional-programmer.herokuapp.com/">Home</a></li>
                     <li>              
                         <Link
                             activeClass="active"
